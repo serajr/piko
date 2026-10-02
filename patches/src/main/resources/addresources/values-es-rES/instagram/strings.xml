@@ -51,6 +51,36 @@
     <string name="piko_disable_comments">Desactivar comentarios</string>
     <string name="piko_limit_following_feed">Limitar feed a perfiles seguidos</string>
     <string name="piko_limit_following_feed_desc">Filtra el feed de inicio para mostrar solo contenido de los perfiles que sigues.</string>
+    <string name="piko_focus_lock">Bloqueo de Enfoque</string>
+    <string name="piko_focus_lock_desc">Forzar la activación de configuraciones sin distracciones durante un tiempo determinado</string>
+    <string name="piko_focus_lock_targets">Configuraciones para bloquear</string>
+    <string name="piko_focus_lock_reels_tab">Pestaña de Reels</string>
+    <string name="piko_focus_lock_reels_tab_desc">Elimina la pestaña Reels de la barra de navegación. Los carretes compartidos contigo aún están abiertos.</string>
+    <string name="piko_focus_lock_duration">Bloquear para</string>
+    <string name="piko_focus_lock_duration_1_minute">1 Minuto</string>
+    <string name="piko_focus_lock_duration_5_minutes">5 minutos</string>
+    <string name="piko_focus_lock_duration_10_minutes">10 minutos</string>
+    <string name="piko_focus_lock_duration_30_minutes">30 minutos</string>
+    <string name="piko_focus_lock_duration_1_hour">1 hora</string>
+    <string name="piko_focus_lock_duration_2_hours">2 horas</string>
+    <string name="piko_focus_lock_duration_6_hours">6 horas</string>
+    <string name="piko_focus_lock_duration_12_hours">12 horas</string>
+    <string name="piko_focus_lock_duration_1_day">1 día</string>
+    <string name="piko_focus_lock_duration_3_days">3 días</string>
+    <string name="piko_focus_lock_duration_1_week">1 semana</string>
+    <string name="piko_focus_lock_duration_2_weeks">2 semanas</string>
+    <string name="piko_focus_lock_duration_1_month">1 mes</string>
+    <string name="piko_focus_lock_duration_3_months">3 meses</string>
+    <string name="piko_focus_lock_enforced">Forzado por Bloqueo de Enfoque.</string>
+    <string name="piko_focus_lock_button_lock">Bloquear ahora</string>
+    <string name="piko_focus_lock_button_request_unlock">Solicitar desbloqueo</string>
+    <string name="piko_focus_lock_button_cancel_unlock">Cancelar solicitud de desbloqueo</string>
+    <string name="piko_focus_lock_button_unlock">Desbloquear</string>
+    <string name="piko_focus_lock_status_unlocked">Apagado. Elija qué bloquear y durante cuánto tiempo, luego bloquéelo.</string>
+    <string name="piko_focus_lock_status_locked">Bloqueado hasta %1$s. Para desbloquearlo anticipadamente se requiere un período de enfriamiento de 24 horas.</string>
+    <string name="piko_focus_lock_status_unlock_pending">Desbloqueo disponible en %1$s (el bloqueo vence en %2$s). Toque para cancelar la solicitud.</string>
+    <string name="piko_focus_lock_status_unlock_ready">El período de enfriamiento ha terminado. Toque para desbloquear.</string>
+    <string name="piko_focus_lock_nothing_selected">Elija primero al menos una configuración para bloquear.</string>
     <string name="piko_disable_reels_scrolling">Desactiva desplazamiento de Reels</string>
     <string name="piko_disable_reels_scrolling_desc">Desactiva el comportamiento de desplazamiento sin fin en Instagram Reels, evitando pasar al siguiente Reel. Nota: En una instalación limpia, puede aparecer la animación \'Consejo\', pero se detendrá por sí sola después de unos segundos.</string>
     <string name="piko_disable_swipe_to_create">Deshabilitar la función de deslizar para crear</string>
@@ -332,6 +362,8 @@
     <string name="piko_filter_story_minimum_item_count_desc">Las historias con menos de x elementos se ocultarán (Por defecto 1)</string>
     <string name="piko_filter_story_maximum_item_count">Elementos de historia máximos</string>
     <string name="piko_filter_story_maximum_item_count_desc">Las historias que tengan más de x elementos se ocultarán (Por defecto 9999)</string>
+    <!-- Save Instants -->
+    <string name="piko_delete">Eliminar</string>
     <!-- Save & view deleted (unsent) direct messages -->
     <string name="piko_open_share_in_instagram">Abrir en Instagram</string>
     <string name="piko_open_voice_with_player">Abrir con reproductor de música</string>
@@ -343,7 +375,6 @@
     <string name="piko_all">Todo</string>
     <string name="piko_selected_count">%d seleccionado</string>
     <string name="piko_delete_selected_confirm">¿Eliminar %d mensajes seleccionados?</string>
-    <string name="piko_delete">Eliminar</string>
     <string name="piko_unknown">Desconocido</string>
     <string name="piko_tap_to_view">toque para ver</string>
     <string name="piko_media_expired">enlace caducado</string>

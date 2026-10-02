@@ -390,6 +390,8 @@
     <string name="piko_filter_story_minimum_item_count_desc">Історії з меншою кількістю фрагментів ніж x будуть приховані (за замовчуванням 1)</string>
     <string name="piko_filter_story_maximum_item_count">Максимальна кількість історій</string>
     <string name="piko_filter_story_maximum_item_count_desc">Історії з більшою кількістю фрагментів ніж x будуть приховані (за замовчуванням 9999)</string>
+    <!-- Save Instants -->
+    <string name="piko_delete">Видалити</string>
     <!-- Save & view deleted (unsent) direct messages -->
     <string name="piko_open_share_in_instagram">Відкрити в Instagram</string>
     <string name="piko_open_voice_with_player">Відкрити у музичному плеєрі</string>
@@ -401,7 +403,6 @@
     <string name="piko_all">Усі</string>
     <string name="piko_selected_count">Вибрано: %d</string>
     <string name="piko_delete_selected_confirm">Видалити вибрані повідомлення (%d)?</string>
-    <string name="piko_delete">Видалити</string>
     <string name="piko_unknown">Невідомо</string>
     <string name="piko_tap_to_view">натисніть для перегляду</string>
     <string name="piko_media_expired">термін дії посилання минув</string>
