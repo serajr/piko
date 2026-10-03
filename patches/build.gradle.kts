@@ -9,7 +9,7 @@ patches {
         name = "Piko (serajr)"
         description = "Morphe patches focused on Twitter/X"
         source = "git@github.com:crimera/piko.git"
-        author = "crimera"
+        author = "crimera (serajr)"
         contact = "na"
         website = "https://github.com/crimera/piko"
         license = "GNU General Public License v3.0"
