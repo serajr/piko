@@ -219,7 +219,7 @@ private fun patchHazeBlurSetter(
         relocateBranchTargets = false,
     ) {
         ifEqz(read.register, Target.Original)
-        constInt(inputRegister, 1) // force blur state to 1 to preserve navigation bar scrim
+        constInt(inputRegister, 0)
     }
 }
 
