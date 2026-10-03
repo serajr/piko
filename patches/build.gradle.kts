@@ -6,7 +6,7 @@ group = "crimera"
 
 patches {
     about {
-        name = "Piko"
+        name = "Piko (serajr)"
         description = "Morphe patches focused on Twitter/X"
         source = "git@github.com:crimera/piko.git"
         author = "crimera"
